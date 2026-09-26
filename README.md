@@ -2,7 +2,7 @@
 
 Juego para memorizar el menú de **Dolce Meza**, al estilo Duolingo pero en rosa. Un solo archivo HTML, sin librerías ni instalación: ábrelo y a jugar.
 
-👉 **[Jugar en línea](https://arauzsayuri-prog.github.io/juego-precios-dolce-meza/)**
+👉 **[Jugar en línea](https://natharze.github.io/juego-precios-dolce-meza/)**
 
 ## Cómo funciona
 
