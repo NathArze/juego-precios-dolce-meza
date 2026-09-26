@@ -1,6 +1,6 @@
 # 🎂 Dolce Meza · Aprende los Precios
 
-Juego para memorizar el menú de **Dolce Meza**, al estilo Duolingo pero en rosa. Un solo archivo HTML, sin librerías ni instalación: ábrelo y a jugar.
+Juego para memorizar el menú de **Dolce Meza**. Un solo archivo HTML, sin librerías ni instalación: ábrelo y a jugar.
 
 👉 **[Jugar en línea](https://natharze.github.io/juego-precios-dolce-meza/)**
 
@@ -8,7 +8,7 @@ Juego para memorizar el menú de **Dolce Meza**, al estilo Duolingo pero en rosa
 
 - **8 lecciones** en ruta: Clásicos I/II → Frutas → Postres → Especiales I/II → Gourmet → Repaso Maestro. Cada una se desbloquea al terminar la anterior y gana 1–3 estrellas según la precisión.
 - **4 tipos de ejercicio**: opción múltiple, escribir el precio con teclado numérico, emperejar producto ↔ precio, y flashcards de estudio antes de cada lección nueva.
-- **Progreso Duolingo**: corazones (5, se recargan solos cada 15 min), XP, nivel, racha diaria, meta diaria con anillo, combos y 8 insignias.
+- **Progreso tipo curso**: corazones (5, se recargan solos cada 15 min), XP, nivel, racha diaria, meta diaria con anillo, combos y 8 insignias.
 - **Pestaña Menú**: el recetario digital completo con buscador, para estudiar antes de practicar.
 - Mascota de pastelo, sonidos con WebAudio, confeti y progreso guardado en `localStorage`.
 

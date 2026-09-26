@@ -282,7 +282,7 @@ body.lesson-mode #hdr,body.lesson-mode #tabbar{display:none}
     <section class="screen on" id="scrHome">
       <div class="hero">
         <h1>Memoriza los precios</h1>
-        <p>Aprende el menú de Dolce Meza como en Duolingo</p>
+        <p>Aprende de memoria los precios del menú de Dolce Meza</p>
         <div class="hero-row">
           <div class="ring">
             <svg width="66" height="66" viewBox="0 0 66 66">
@@ -518,7 +518,7 @@ function etiqueta(it){ return it.label + (ambiguo(it) ? ' <small class="qnota">(
 function texto(it){ return it.label + (ambiguo(it) ? " (" + CAT_CORTO[it.cat] + ")" : ""); }
 
 /* =========================================================
-   2. LECCIONES (ruta tipo Duolingo)
+   2. LECCIONES (ruta de aprendizaje)
    ========================================================= */
 const LECCIONES = [
   { id:"l1",  em:"🧁", t:"Clásicos I",     s:"Individual y Chico",            pick:b=>b.cat==="clasicos"&&(b.size==="Individual"||b.size==="Chico") },
